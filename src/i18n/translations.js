@@ -119,6 +119,8 @@ export const translations = {
       linkNews: 'News & project updates',
       communityHeading: 'Community',
       socials: ['Discord', 'Telegram', 'X (Twitter)', 'Community Hub'],
+      contactHeading: 'Contact',
+      email: 'daniil_rostov2000@icloud.com',
       disclaimer:
         'ITCoin is a utility token for the ITHom ecosystem. Nothing on this website constitutes financial or investment advice.',
       copyright: (year) => `© ${year} ITCoin / ITHom. All rights reserved.`,
@@ -245,6 +247,8 @@ export const translations = {
       linkNews: 'Новости и обновления проекта',
       communityHeading: 'Сообщество',
       socials: ['Discord', 'Telegram', 'X (Twitter)', 'Комьюнити-хаб'],
+      contactHeading: 'Контакты',
+      email: 'daniil_rostov2000@icloud.com',
       disclaimer:
         'ITCoin — utility-токен экосистемы ITHom. Ничто на этом сайте не является финансовой или инвестиционной рекомендацией.',
       copyright: (year) => `© ${year} ITCoin / ITHom. Все права защищены.`,
